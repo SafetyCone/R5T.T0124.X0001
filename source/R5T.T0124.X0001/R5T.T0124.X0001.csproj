@@ -4,4 +4,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.T0032.X0001\source\R5T.T0032.X0001.X002\R5T.T0032.X0001.X002.csproj" />
+    <ProjectReference Include="..\..\..\R5T.T0124\source\R5T.T0124.X001\R5T.T0124.X001.csproj" />
+  </ItemGroup>
+
 </Project>
